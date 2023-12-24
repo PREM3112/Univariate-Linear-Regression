@@ -50,9 +50,10 @@ plt.show()
 
 ```
 ## Output
-![1](/Screenshot%202023-12-24%20212232.png)
-![2](/Screenshot%202023-12-24%20212245.png)
-![3](/Screenshot%202023-12-24%20212304.png)
+![Screenshot 2023-12-24 212232](https://github.com/PREM3112/Univariate-Linear-Regression/assets/145449383/afc75d45-9a34-4adb-80c8-b7558d456edc)
+![Screenshot 2023-12-24 212245](https://github.com/PREM3112/Univariate-Linear-Regression/assets/145449383/5fda8ce2-d4e0-41e5-be05-abf3bfbb2d03)
+![Screenshot 2023-12-24 212304](https://github.com/PREM3112/Univariate-Linear-Regression/assets/145449383/4653f37d-452e-4d71-942d-0c9084f0ef16)
+
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
